@@ -1,0 +1,7 @@
+{
+  "name": "LogisticsUA",
+  "description": "A modern, responsive logistics company landing page with multi-language support, real-time quote estimation UI, and comprehensive service overview.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
